@@ -1,0 +1,26 @@
+{
+  "name": "bluskygroup.com",
+  "homepage": "https://www.bluskygroup.com",
+  "description": "home for blu sky group || git branch: init",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-redux": "^7.2.6",
+    "react-select": "^5.2.2"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
